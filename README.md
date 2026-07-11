@@ -252,6 +252,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [philips-labs/terraform-registry](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 - [tapir](https://github.com/PacoVK/tapir) - Private Terraform Registry.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
+- [terramantle.dev](https://terramantle.dev) - A registry that focuses on module & state insights, tackling dependency management 
 - [Terrareg](https://github.com/matthewjohn/terrareg) - Terraform module registry.
 - [terustry](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 - [terralist](https://github.com/terralist/terralist) - Terraform Private Registry for modules and providers manageable from a REST API.
@@ -260,6 +261,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/) - Official Microsoft initiative providing verified, standards-compliant Terraform (and Bicep) modules for Azure resources and architectural patterns, aligned with the Well-Architected Framework.
 - [cloudsmith](https://docs.cloudsmith.com/formats/terraform-modules-repository) - Managed package hoster for internal and external clients. :heavy_dollar_sign:
+- [Terramantle](https://terramantle.dev) - A private Terraform/OpenTofu registry with deep module insights, dependency mapping, and state visibility.
 
 ## Providers
 
